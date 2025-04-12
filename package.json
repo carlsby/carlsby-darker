@@ -3,7 +3,7 @@
   "displayName": "Carlsby Darker",
   "description": "A dark theme tailored for Carlsby.",
   "publisher": "Carlsby",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "engines": {
     "vscode": "^1.96.0"
   },
