@@ -3,7 +3,7 @@
   "displayName": "Carlsby Darker",
   "description": "A dark theme tailored for Carlsby.",
   "publisher": "Carlsby",
-  "version": "0.10.0",
+  "version": "0.12.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -29,7 +29,14 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Carlsby Darker-color-theme.json"
       }
-    ]
+    ],
+    "configurationDefaults": {
+      "editor.fontFamily": "'Cascadia Code', 'Cascadia Mono', Consolas, monospace",
+      "editor.fontSize": 15,
+      "editor.lineHeight": 25,
+      "editor.fontLigatures": true,
+      "scm.inputFontFamily": "default"
+    }
   },
   "icon": "images/carlsby.png"
 }
