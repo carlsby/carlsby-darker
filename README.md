@@ -17,7 +17,7 @@ Carlsby's Darker Theme is a sophisticated and sleek dark theme designed to provi
 Carlsby's Darker Theme is ideal for:
 
 - **Late-Night Work Sessions:** The dark background helps minimize eye strain while keeping you focused and productive.
-- **Coding:** With code-friendly syntax highlighting in subtle tones of yellow and green, this theme is perfect for developers working in Visual Studio Code.
+- **Coding:** With code-friendly syntax highlighting in subtle tones of white, this theme is perfect for developers working in Visual Studio Code.
 
 ## License
 This theme is licensed under the MIT License. Feel free to use it, modify it, and distribute it as per the terms of the license.
